@@ -1,7 +1,4 @@
-
-
 #include <iostream>
-#include<string>
 using namespace std;
 
 const int SUBJECTS = 5;
